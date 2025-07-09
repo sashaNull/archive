@@ -1,10 +1,10 @@
-id: archive
-name: pwn.college Archives
+id: archiveee
+name: archiveeeee
 description: |
   Where all of the lost and forgotten challenges go.
 image: pwncollege/challenge-legacy:latest
 
-type: course
+type: public
 award:
   emoji: 📘
 
